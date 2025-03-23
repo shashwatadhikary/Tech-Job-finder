@@ -1,6 +1,6 @@
 # Tech job finer
 
-# Project Name: Tech job finder
+# Project Name: Tech Job Finder
 # Team Name: TechFive
 # Members: Jaidyn Green, Joshua Dixon, Will Giessner, Rishabh Shukla, Sinan Cakir, Shashwat Adhikary
 # Instructor: Diana Rabah
